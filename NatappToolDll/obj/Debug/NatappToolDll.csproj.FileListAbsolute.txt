@@ -1,0 +1,15 @@
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappCrackDll\bin\Debug\NatappToolDll.dll.config
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappCrackDll\bin\Debug\NatappToolDll.dll
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappCrackDll\bin\Debug\NatappToolDll.pdb
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappCrackDll\obj\Debug\NatappToolDll.Properties.Resources.resources
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappCrackDll\obj\Debug\NatappToolDll.csproj.GenerateResource.Cache
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappCrackDll\obj\Debug\NatappToolDll.dll
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappCrackDll\obj\Debug\NatappToolDll.pdb
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\bin\Debug\NatappToolDll.dll.config
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\bin\Debug\NatappToolDll.dll
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\bin\Debug\NatappToolDll.pdb
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\obj\Debug\NatappToolDll.csprojResolveAssemblyReference.cache
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\obj\Debug\NatappToolDll.Properties.Resources.resources
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\obj\Debug\NatappToolDll.csproj.GenerateResource.Cache
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\obj\Debug\NatappToolDll.dll
+E:\个人项目\natapp自动获取端口域名\NatappCrack\NatappToolDll\obj\Debug\NatappToolDll.pdb
