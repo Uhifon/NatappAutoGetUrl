@@ -82,7 +82,7 @@ namespace NatappToolDll
         /// </summary>
         /// <param name="directoryPath"> 文件夹路径 </param>
         /// <param name="fileName"> 文件名称 </param>
-        public static void DeleteFolder()
+        private static void DeleteFolder()
         {
             DirectoryInfo di = new DirectoryInfo(Application.StartupPath);
             FileInfo[] fis = di.GetFiles();
