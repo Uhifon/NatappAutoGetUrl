@@ -16,8 +16,9 @@ namespace NatappToolDll
         WEB = 0,
         TCP = 1,
         UDP = 2
-    }
 
+    }
+     
     public class NatappResolve
     {
         Process process;
